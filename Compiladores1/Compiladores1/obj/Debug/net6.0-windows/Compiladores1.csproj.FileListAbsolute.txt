@@ -82,19 +82,3 @@ C:\Users\PoshWhale\Desktop\Compiladores Escamilla\Compiladores-Proyecto-main\Com
 C:\Users\PoshWhale\Desktop\Compiladores Escamilla\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.pdb
 C:\Users\PoshWhale\Desktop\Compiladores Escamilla\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.genruntimeconfig.cache
 C:\Users\PoshWhale\Desktop\Compiladores Escamilla\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\ref\Compiladores1.dll
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\bin\Debug\net6.0-windows\Compiladores1.exe
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\bin\Debug\net6.0-windows\Compiladores1.deps.json
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\bin\Debug\net6.0-windows\Compiladores1.runtimeconfig.json
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\bin\Debug\net6.0-windows\Compiladores1.dll
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\bin\Debug\net6.0-windows\Compiladores1.pdb
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.Form1.resources
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.csproj.GenerateResource.cache
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.AssemblyInfoInputs.cache
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.AssemblyInfo.cs
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.csproj.CoreCompileInputs.cache
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.dll
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\refint\Compiladores1.dll
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.pdb
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\Compiladores1.genruntimeconfig.cache
-C:\Users\alexe\OneDrive\Escritorio\MINECRAFT\Compiladores-Proyecto-main\Compiladores1\Compiladores1\obj\Debug\net6.0-windows\ref\Compiladores1.dll

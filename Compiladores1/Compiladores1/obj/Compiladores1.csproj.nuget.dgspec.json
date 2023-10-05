@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexe\\OneDrive\\Escritorio\\MINECRAFT\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj": {}
+    "C:\\Users\\PoshWhale\\Desktop\\Compiladores Escamilla\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexe\\OneDrive\\Escritorio\\MINECRAFT\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj": {
+    "C:\\Users\\PoshWhale\\Desktop\\Compiladores Escamilla\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexe\\OneDrive\\Escritorio\\MINECRAFT\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj",
+        "projectUniqueName": "C:\\Users\\PoshWhale\\Desktop\\Compiladores Escamilla\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj",
         "projectName": "Compiladores1",
-        "projectPath": "C:\\Users\\alexe\\OneDrive\\Escritorio\\MINECRAFT\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj",
-        "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexe\\OneDrive\\Escritorio\\MINECRAFT\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\obj\\",
+        "projectPath": "C:\\Users\\PoshWhale\\Desktop\\Compiladores Escamilla\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\Compiladores1.csproj",
+        "packagesPath": "C:\\Users\\PoshWhale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PoshWhale\\Desktop\\Compiladores Escamilla\\Compiladores-Proyecto-main\\Compiladores1\\Compiladores1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PoshWhale\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

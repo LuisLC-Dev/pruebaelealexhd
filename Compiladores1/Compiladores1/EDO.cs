@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compiladores_Proyecto_Deanosaurios
+namespace Compiladores1
 {
     internal class EDO
     {

@@ -1,4 +1,4 @@
-﻿using Compiladores_Proyecto_Deanosaurios;
+﻿
 using System.Text;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
